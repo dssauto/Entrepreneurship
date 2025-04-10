@@ -23,11 +23,11 @@ This is an Entrepreneurship class final project.
 This is an Entrepreneurship class final project.
 
 ### Team Members
-- **CEO**: Kamila, 210082
-- **CTO**: First Name
-- **CFO**: First Name
-- **COO**: First Name
-- **CMO**: First Name
+- **CEO**: Kamilla Juraeva, 210082
+- **CTO**: Ravshan Zaripov, 210029
+- **CFO**: Daniel Kapranov, 210043
+- **COO**: Bobur Ibragimov, 210095
+- **CMO**: Elbek Erkinboev, 210035
 
 ---
 
