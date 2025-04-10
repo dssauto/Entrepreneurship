@@ -23,7 +23,7 @@ This is an Entrepreneurship class final project.
 This is an Entrepreneurship class final project.
 
 ### Team Members
-- **CEO**: First Name
+- **CEO**: Kamila, 210082
 - **CTO**: First Name
 - **CFO**: First Name
 - **COO**: First Name
