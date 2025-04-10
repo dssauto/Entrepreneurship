@@ -40,7 +40,7 @@ This is an Entrepreneurship class final project.
 - **CEO**: Saydullo Ismatov
 - **CTO**: Doniyor Ibrohimov
 - **CFO**: Sukhrob Sotiboldiev
-- **COO**:  Abdumannob Muydinov
+- **COO**: Abdumannob Muydinov
 - **CMO**: Husan Rahmatullev
 - **CSO**: Farrux Panjiyev
 
@@ -49,7 +49,7 @@ This is an Entrepreneurship class final project.
 ## **Smart-Service**
 
 **Project Description:**  
-This is an Entrepreneurship class final project.
+I need to change this!!!!
 
 ### Team Members
 - **CEO**: Omina Azimboyeva, 210016
