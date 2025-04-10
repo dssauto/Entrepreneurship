@@ -87,16 +87,3 @@ This is an Entrepreneurship class final project.
 - **CMO**: First Name
 
 ---
-## **IDI**
-
-**Project Description:**  
-This is an Entrepreneurship class final project.
-
-### Team Members
-- **CEO**: First Name
-- **CTO**: First Name
-- **CFO**: First Name
-- **COO**: First Name
-- **CMO**: First Name
-
----
