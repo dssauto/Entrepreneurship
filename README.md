@@ -23,9 +23,9 @@ This is an Entrepreneurship class final project.
 This is an Entrepreneurship class final project.
 
 ### Team Members
-- **CEO**: Kamila, 210082
+- **CEO**: Kamilla, 210082
 - **CTO**: First Name
-- **CFO**: First Name
+- **CFO**: Daniel, 210043
 - **COO**: First Name
 - **CMO**: First Name
 
