@@ -87,3 +87,18 @@ This is an Entrepreneurship class final project.
 - **CMO**: First Name
 
 ---
+
+## **SOLUTECH CORE**
+
+**Project Description:**  
+This is an Entrepreneurship class final project.
+
+### Team Members
+- **CEO**: Bakhtiyor Rakhmatullayev, 210064
+- **CTO**: BOBIRJON KARIMOV, 210060
+- **CFO**: MADINA ORTIKOVA
+- **CMO**: AZIZA SARSENBAEVA
+- **COO**: AKBAR AMINOV
+- **CSO**: Muhiddin Radjabmuhammedov, 210039
+
+---
