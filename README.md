@@ -60,7 +60,7 @@ I need to change this!!!!
 
 ---
 
-## **ATTO-Payment**
+## **MRI Scanner**
 
 **Project Description:**  
 This is an Entrepreneurship class final project.
@@ -71,8 +71,7 @@ This is an Entrepreneurship class final project.
 - **CFO**: Muxtor Eshimov, 210074
 - **COO**: Sevinch Rustamova, 210092
 - **CMO**: Abdulloh Abduganiev, 210076
-- **CSO**: Jasurbek Ergashev, 210071
-
+- 
 ---
 ## **Speaklish**
 
