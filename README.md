@@ -60,7 +60,7 @@ I need to change this!!!!
 
 ---
 
-## **ATTO-Payment**
+## **MRI Scanner**
 
 **Project Description:**  
 This is an Entrepreneurship class final project.
@@ -72,8 +72,6 @@ This is an Entrepreneurship class final project.
 - **COO**: Sevinch Rustamova, 210092
 - **CMO**: Abdulloh Abduganiev, 210076
 
----
-
 ## **Speaklish**
 
 **Project Description:**  
@@ -82,5 +80,20 @@ Speaklish is your AI Powered IELTS Speaking Evaluator.
 ### Team Members
 - **CEO**: Bobirjon Mardonov, 210030
 - **CTO**: Jasurbek Ergashev, 210071
+
+---
+
+## **SOLUTECH CORE**
+
+**Project Description:**  
+This is an Entrepreneurship class final project.
+
+### Team Members
+- **CEO**: Bakhtiyor Rakhmatullayev, 210064
+- **CTO**: BOBIRJON KARIMOV, 210060
+- **CFO**: MADINA ORTIKOVA
+- **CMO**: AZIZA SARSENBAEVA
+- **COO**: AKBAR AMINOV
+- **CSO**: Muhiddin Radjabmuhammedov, 210039
 
 ---
