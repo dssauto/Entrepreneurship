@@ -71,19 +71,15 @@ This is an Entrepreneurship class final project.
 - **CFO**: Muxtor Eshimov, 210074
 - **COO**: Sevinch Rustamova, 210092
 - **CMO**: Abdulloh Abduganiev, 210076
-  
----
+
 ## **Speaklish**
 
 **Project Description:**  
-This is an Entrepreneurship class final project.
+Speaklish is your AI Powered IELTS Speaking Evaluator.
 
 ### Team Members
-- **CEO**: First Name
-- **CTO**: First Name
-- **CFO**: First Name
-- **COO**: First Name
-- **CMO**: First Name
+- **CEO**: Bobirjon Mardonov, 210030
+- **CTO**: Jasurbek Ergashev, 210071
 
 ---
 
