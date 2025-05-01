@@ -71,6 +71,7 @@ This is an Entrepreneurship class final project.
 - **CFO**: Muxtor Eshimov, 210074
 - **COO**: Sevinch Rustamova, 210092
 - **CMO**: Abdulloh Abduganiev, 210076
+- **CSO**: Mukhammadjon Islomov, 210033
 
 ## **Speaklish**
 
