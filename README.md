@@ -81,6 +81,9 @@ Speaklish is your AI Powered IELTS Speaking Evaluator.
 ### Team Members
 - **CEO**: Bobirjon Mardonov, 210030
 - **CTO**: Jasurbek Ergashev, 210071
+- **CMO**: Mekhribon Jabborova, 2100xx
+- **COO**: Temurmalik Kudratov, 2100xx
+- **CFO**: Abdusattor Abdusattorov, 2100xx
 
 ---
 
