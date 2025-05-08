@@ -6,20 +6,20 @@ This repository contains multiple projects as part of an **Entrepreneurship clas
 
 ## **Joy-Top**
 
-**Project Description:**  
+**Project Description:**
 This is an Entrepreneurship class final project.
 
 ### Team Members
 - **CEO**: Saidjon Mukhitdinov, 210814
 - **CTO**: Asadbek Fazliddinov, 210086
-- **CFO**: Samandar Kambaraliev, 210034 
+- **CFO**: Samandar Kambaraliev, 210034
 - **CMO**: Timur Urunbaev, 210080
 
 ---
 
 ## **Kettu**
 
-**Project Description:**  
+**Project Description:**
 This is an Entrepreneurship class final project.
 
 ### Team Members
@@ -33,7 +33,7 @@ This is an Entrepreneurship class final project.
 
 ## **Vision Fit**
 
-**Project Description:**  
+**Project Description:**
 This is an Entrepreneurship class final project.
 
 ### Team Members
@@ -48,7 +48,7 @@ This is an Entrepreneurship class final project.
 
 ## **Smart-Service**
 
-**Project Description:**  
+**Project Description:**
 I need to change this!!!!
 
 ### Team Members
@@ -62,7 +62,7 @@ I need to change this!!!!
 
 ## **MRI Scanner**
 
-**Project Description:**  
+**Project Description:**
 This is an Entrepreneurship class final project.
 
 ### Team Members
@@ -75,7 +75,7 @@ This is an Entrepreneurship class final project.
 
 ## **Speaklish**
 
-**Project Description:**  
+**Project Description:**
 Speaklish is your AI Powered IELTS Speaking Evaluator.
 
 ### Team Members
@@ -89,7 +89,7 @@ Speaklish is your AI Powered IELTS Speaking Evaluator.
 
 ## **SOLUTECH CORE**
 
-**Project Description:**  
+**Project Description:**
 This is an Entrepreneurship class final project.
 
 ### Team Members
@@ -99,5 +99,3 @@ This is an Entrepreneurship class final project.
 - **CMO**: AZIZA SARSENBAEVA
 - **COO**: AKBAR AMINOV
 - **CSO**: Muhiddin Radjabmuhammedov, 210039
-
----
