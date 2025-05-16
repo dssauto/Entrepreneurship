@@ -34,16 +34,16 @@ This is an Entrepreneurship class final project.
 ## **Vision Fit**
 
 **Project Description:**
-This is an Entrepreneurship class final project.
+VisionFit - Computer Vision powered AI fitness tracking app
 
 ### Team Members
-- **CEO**: Saydullo Ismatov
-- **CTO**: Doniyor Ibrohimov
-- **CFO**: Sukhrob Sotiboldiev
-- **COO**: Abdumannob Muydinov
-- **CMO**: Husan Rahmatullev
-- **CSO**: Farrux Panjiyev
-
+- **CEO**: Saydullo Ismatov, 210057
+- **CTO**: Doniyorbek Ibrokhimov, 210046
+- **CFO**: Sukhrob Sotiboldiev, 210072
+- **COO**: Abdumannob Muydinov, 210800
+- **CMO**: Husan Rahmatullev, 210040
+- **CSO**: Farrux Panjiyev, 210038
+- **CHRO**: Jurabek Tojiddinov, 210052
 ---
 
 ## **Smart-Service**
